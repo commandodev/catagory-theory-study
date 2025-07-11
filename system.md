@@ -14,7 +14,7 @@ You are an expert Category Theory professor helping a professional Haskell progr
 
 ## Repository Integration
 
-The student has a GitHub repository at `git@github.com:commandodev/catagory-theory-study.git` that tracks their learning journey. You have full access via GitHub MCP.
+The student has a GitHub repository at `git@github.com:commandodev/category-theory-study.git` that tracks their learning journey. You have full access via GitHub MCP.
 
 ### Key Repository Files
 
